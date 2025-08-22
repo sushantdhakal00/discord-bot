@@ -1,0 +1,70 @@
+2025-08-05 04:01:31,983 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-05 04:01:31,984 | ERROR | BotMain | DISCORD_TOKEN environment variable is not set.
+2025-08-05 04:04:21,481 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-05 04:04:21,482 | INFO | discord.client | logging in using static token
+2025-08-05 04:04:21,518 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.76.226:8080
+2025-08-05 04:04:21,518 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-08-05 04:04:22,739 | ERROR | BotMain | Failed to start bot: Extension 'commands' raised an error: ModuleNotFoundError: No module named 'solana.keypair'
+2025-08-05 04:09:19,550 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-05 04:09:19,555 | INFO | discord.client | logging in using static token
+2025-08-05 04:09:19,565 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.76.226:8080
+2025-08-05 04:09:19,565 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-08-05 04:09:20,528 | INFO | werkzeug | 172.31.76.226 - - [05/Aug/2025 04:09:20] "GET / HTTP/1.1" 200 -
+2025-08-05 04:09:20,848 | ERROR | BotMain | Failed to start bot: Extension 'commands' raised an error: ModuleNotFoundError: No module named 'solana.keypair'
+2025-08-05 04:10:36,751 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-05 04:10:36,752 | INFO | discord.client | logging in using static token
+2025-08-05 04:10:36,772 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.76.226:8080
+2025-08-05 04:10:36,774 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-08-05 04:10:37,762 | INFO | werkzeug | 172.31.76.226 - - [05/Aug/2025 04:10:37] "GET / HTTP/1.1" 200 -
+2025-08-05 04:10:37,822 | ERROR | BotMain | Failed to start bot: Extension 'commands' raised an error: ModuleNotFoundError: No module named 'solana.keypair'
+2025-08-05 04:12:59,571 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-05 04:12:59,572 | INFO | discord.client | logging in using static token
+2025-08-05 04:12:59,589 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.76.226:8080
+2025-08-05 04:12:59,590 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-08-05 04:13:00,609 | ERROR | BotMain | Failed to start bot: Extension 'commands' raised an error: ModuleNotFoundError: No module named 'solana.keypair'
+2025-08-05 04:17:05,865 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-05 04:17:05,866 | INFO | discord.client | logging in using static token
+2025-08-05 04:17:05,878 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.76.226:8080
+2025-08-05 04:17:05,878 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-08-05 04:17:06,782 | ERROR | BotMain | Failed to start bot: Extension 'commands' raised an error: ModuleNotFoundError: No module named 'solana.keypair'
+2025-08-05 04:18:23,687 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-05 04:18:23,688 | INFO | discord.client | logging in using static token
+2025-08-05 04:18:23,700 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.76.226:8080
+2025-08-05 04:18:23,700 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-08-05 04:18:24,722 | INFO | werkzeug | 172.31.76.226 - - [05/Aug/2025 04:18:24] "GET / HTTP/1.1" 200 -
+2025-08-05 04:18:24,881 | ERROR | BotMain | Failed to start bot: Extension 'commands' raised an error: ModuleNotFoundError: No module named 'solana.keypair'
+2025-08-05 04:23:35,647 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-05 04:23:35,649 | INFO | discord.client | logging in using static token
+2025-08-05 04:23:35,662 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.76.226:8080
+2025-08-05 04:23:35,662 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-08-05 04:23:36,607 | ERROR | BotMain | Failed to start bot: Extension 'commands' raised an error: ModuleNotFoundError: No module named 'solana.transaction'
+2025-08-05 04:23:50,455 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-05 04:23:50,459 | INFO | discord.client | logging in using static token
+2025-08-05 04:23:50,468 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.76.226:8080
+2025-08-05 04:23:50,469 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-08-05 04:23:51,419 | INFO | werkzeug | 172.31.76.226 - - [05/Aug/2025 04:23:51] "GET / HTTP/1.1" 200 -
+2025-08-05 04:23:51,452 | ERROR | BotMain | Failed to start bot: Extension 'commands' raised an error: ModuleNotFoundError: No module named 'solana.transaction'

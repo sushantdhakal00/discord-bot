@@ -1,0 +1,13 @@
+discord.py>=2.3.0
+solana>=0.32.0
+solders>=0.21.0
+websockets>=11.0
+asyncio-mqtt>=0.13.0
+flask>=2.3.0
+sqlite3
+python-dotenv>=1.0.0
+openai
+forex-python
+base58
+aiohttp
+numpy

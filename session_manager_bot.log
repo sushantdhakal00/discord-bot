@@ -1,0 +1,862 @@
+2025-06-18 14:35:24,660 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 14:35:24,664 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 14:35:24,664 | INFO | discord.client | logging in using static token
+2025-06-18 14:35:24,683 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 14:35:24,684 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 14:35:26,191 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 7909bdabd7a6171e43d5101bb78dc16f).
+2025-06-18 14:35:28,068 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 14:35:28] "GET / HTTP/1.1" 200 -
+2025-06-18 14:35:28,480 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 14:35:28,480 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 14:37:08,991 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 14:37:08,995 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 14:37:08,996 | INFO | discord.client | logging in using static token
+2025-06-18 14:37:09,015 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 14:37:09,015 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 14:37:10,546 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: adfa51180cac3fe49cfd9f8b19830185).
+2025-06-18 14:37:11,284 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 14:37:11] "GET / HTTP/1.1" 200 -
+2025-06-18 14:37:12,838 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 14:37:12,838 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 14:37:48,521 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 14:37:48,524 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 14:37:48,525 | INFO | discord.client | logging in using static token
+2025-06-18 14:37:48,567 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 14:37:48,567 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 14:37:50,273 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: f7c41ced75fc83c78b28f3d3f3a0487a).
+2025-06-18 14:37:52,560 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 14:37:52,561 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 14:38:22,215 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 14:38:22] "GET / HTTP/1.1" 200 -
+2025-06-18 14:40:45,419 | INFO | SessionManagerBot | Created session '01' in guild 'BALLERS'
+2025-06-18 14:41:24,400 | INFO | SessionManagerBot | Started session '01' in guild 'BALLERS'
+2025-06-18 14:41:55,990 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 14:41:55] "GET / HTTP/1.1" 200 -
+2025-06-18 14:43:02,251 | INFO | SessionManagerBot | Scheduling role removal for anus_69 in session '01' after 600s
+2025-06-18 14:43:04,671 | INFO | SessionManagerBot | Added anus_69 to session '01' with tip $0.01
+2025-06-18 14:44:20,116 | INFO | SessionManagerBot | Closed session '01' in guild 'BALLERS'
+2025-06-18 14:56:24,364 | INFO | discord.gateway | Shard ID None has successfully RESUMED session f7c41ced75fc83c78b28f3d3f3a0487a.
+2025-06-18 15:00:16,306 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 15:00:16] "GET / HTTP/1.1" 200 -
+2025-06-18 15:02:35,948 | INFO | discord.gateway | Shard ID None has successfully RESUMED session f7c41ced75fc83c78b28f3d3f3a0487a.
+2025-06-18 15:30:47,408 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 15:30:47,414 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 15:30:47,415 | INFO | discord.client | logging in using static token
+2025-06-18 15:30:47,430 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 15:30:47,431 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 15:30:48,956 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: eb06c1bd11694d9e7ecad244dfb7b092).
+2025-06-18 15:30:51,249 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 15:30:51,249 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 15:30:52,021 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 15:30:52] "GET / HTTP/1.1" 200 -
+2025-06-18 15:30:59,025 | ERROR | SessionManagerBot | Error in command 'gay': Command raised an exception: NameError: name 'random' is not defined
+2025-06-18 15:31:48,073 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 15:31:48,077 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 15:31:48,078 | INFO | discord.client | logging in using static token
+2025-06-18 15:31:48,098 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 15:31:48,098 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 15:31:49,691 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: f67ba6cf38fc962514ad8488da61d2b9).
+2025-06-18 15:31:50,263 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 15:31:50] "GET / HTTP/1.1" 200 -
+2025-06-18 15:31:51,980 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 15:31:51,980 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 15:37:20,055 | INFO | discord.gateway | Shard ID None has successfully RESUMED session f67ba6cf38fc962514ad8488da61d2b9.
+2025-06-18 15:44:54,292 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 15:44:54] "GET / HTTP/1.1" 200 -
+2025-06-18 15:45:36,806 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 15:45:36,811 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 15:45:36,812 | INFO | discord.client | logging in using static token
+2025-06-18 15:45:36,831 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 15:45:36,832 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 15:45:38,248 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 15:45:38] "GET / HTTP/1.1" 200 -
+2025-06-18 15:45:38,967 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 15dada915f51a1ddc9756760a9f7729a).
+2025-06-18 15:45:41,284 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 15:45:41,284 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 15:49:17,690 | INFO | discord.gateway | Shard ID None has successfully RESUMED session 15dada915f51a1ddc9756760a9f7729a.
+2025-06-18 15:56:47,544 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 15:56:47,549 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 15:56:47,550 | INFO | discord.client | logging in using static token
+2025-06-18 15:56:47,563 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 15:56:47,563 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 15:56:49,225 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 15:56:49] "GET / HTTP/1.1" 200 -
+2025-06-18 15:56:49,262 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 8d2982f9b253ef824941533fefcfc414).
+2025-06-18 15:56:51,587 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 15:56:51,588 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 15:57:43,564 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 15:57:43,569 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 15:57:43,570 | INFO | discord.client | logging in using static token
+2025-06-18 15:57:43,581 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 15:57:43,581 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 15:57:45,439 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 161dc91fb70f60a33bbc3c1aba03e342).
+2025-06-18 15:57:45,738 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 15:57:45] "GET / HTTP/1.1" 200 -
+2025-06-18 15:57:47,727 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 15:57:47,727 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:00:01,197 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:00:01,202 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:00:01,202 | INFO | discord.client | logging in using static token
+2025-06-18 16:00:01,267 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:00:01,267 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:00:02,071 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:00:02] "GET / HTTP/1.1" 200 -
+2025-06-18 16:00:03,007 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: be667084f585bef9e48c816af70e3379).
+2025-06-18 16:00:05,303 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:00:05,303 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:00:50,500 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:00:50,505 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:00:50,505 | INFO | discord.client | logging in using static token
+2025-06-18 16:00:50,519 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:00:50,519 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:00:52,066 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:00:52] "GET / HTTP/1.1" 200 -
+2025-06-18 16:00:52,225 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 4c31a58fa669eac897f58e18b8b7673c).
+2025-06-18 16:00:54,514 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:00:54,514 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:01:11,755 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: row cannot be negative or greater than or equal to 5
+2025-06-18 16:04:27,099 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:04:27,106 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:04:27,108 | INFO | discord.client | logging in using static token
+2025-06-18 16:04:27,170 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:04:27,170 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:04:28,726 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: ceb57cbb186e55d1b62b50b9b0e0fc73).
+2025-06-18 16:04:28,750 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:04:28] "GET / HTTP/1.1" 200 -
+2025-06-18 16:04:31,015 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:04:31,015 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:07:37,758 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: item would not fit at row 0 (6 > 5 width)
+2025-06-18 16:10:18,610 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:10:18,616 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:10:18,616 | INFO | discord.client | logging in using static token
+2025-06-18 16:10:18,627 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:10:18,628 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:10:20,317 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:10:20] "GET / HTTP/1.1" 200 -
+2025-06-18 16:10:20,410 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 41ec89dea1fdbb48d4ef3f02eda6bb8d).
+2025-06-18 16:10:22,703 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:10:22,703 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:11:05,190 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: row cannot be negative or greater than or equal to 5
+2025-06-18 16:15:49,557 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:15:49,561 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:15:49,562 | INFO | discord.client | logging in using static token
+2025-06-18 16:15:49,573 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:15:49,573 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:15:51,016 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:15:51] "GET / HTTP/1.1" 200 -
+2025-06-18 16:15:51,580 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: f642bea7e572828990ab4bc9cccbb518).
+2025-06-18 16:15:53,904 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:15:53,904 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:20:16,283 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: row cannot be negative or greater than or equal to 5
+2025-06-18 16:20:31,095 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: row cannot be negative or greater than or equal to 5
+2025-06-18 16:21:58,366 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:21:58] "GET / HTTP/1.1" 200 -
+2025-06-18 16:22:10,025 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:22:10,029 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:22:10,033 | INFO | discord.client | logging in using static token
+2025-06-18 16:22:10,046 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:22:10,046 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:22:11,638 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: ac2d807418f6fb4984307c624bb66b84).
+2025-06-18 16:22:12,314 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:22:12] "GET / HTTP/1.1" 200 -
+2025-06-18 16:22:13,926 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:22:13,926 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:22:44,300 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: row cannot be negative or greater than or equal to 5
+2025-06-18 16:22:53,880 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: row cannot be negative or greater than or equal to 5
+2025-06-18 16:25:05,111 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:25:05,116 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:25:05,117 | INFO | discord.client | logging in using static token
+2025-06-18 16:25:05,132 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:25:05,134 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:25:06,012 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:25:06] "GET / HTTP/1.1" 200 -
+2025-06-18 16:25:06,788 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 362a1741ae4eaac0bdae2a4bf7ee974e).
+2025-06-18 16:25:09,082 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:25:09,082 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:25:38,593 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: item would not fit at row 0 (6 > 5 width)
+2025-06-18 16:26:16,450 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:26:16,457 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:26:16,458 | INFO | discord.client | logging in using static token
+2025-06-18 16:26:16,477 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:26:16,477 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:26:18,255 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: c52b3770f90dbff4461b80ae72f5c193).
+2025-06-18 16:26:18,356 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:26:18] "GET / HTTP/1.1" 200 -
+2025-06-18 16:26:20,541 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:26:20,542 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:26:36,881 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: row cannot be negative or greater than or equal to 5
+2025-06-18 16:26:55,609 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:26:55,613 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:26:55,614 | INFO | discord.client | logging in using static token
+2025-06-18 16:26:55,626 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:26:55,626 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:26:57,113 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: ff599ccbeeda42c5818090d432916788).
+2025-06-18 16:26:57,466 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:26:57] "GET / HTTP/1.1" 200 -
+2025-06-18 16:26:59,414 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:26:59,414 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:27:15,809 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: row cannot be negative or greater than or equal to 5
+2025-06-18 16:31:10,305 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:31:10,310 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:31:10,311 | INFO | discord.client | logging in using static token
+2025-06-18 16:31:10,323 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:31:10,323 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:31:12,246 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 8ded8bd8f00c84b0c010f85b9178e9a7).
+2025-06-18 16:31:13,872 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:31:13] "GET / HTTP/1.1" 200 -
+2025-06-18 16:31:14,550 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:31:14,550 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:33:38,075 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:33:38,079 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:33:38,080 | INFO | discord.client | logging in using static token
+2025-06-18 16:33:38,092 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:33:38,093 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:33:39,634 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 6b50aa2d89f0df523e80642418abdbc2).
+2025-06-18 16:33:39,969 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:33:39] "GET / HTTP/1.1" 200 -
+2025-06-18 16:33:41,927 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:33:41,928 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:34:59,338 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:34:59,350 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:34:59,356 | INFO | discord.client | logging in using static token
+2025-06-18 16:34:59,377 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:34:59,377 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:35:01,330 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 597ceebc762ac709c18f3761bf566075).
+2025-06-18 16:35:01,389 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:35:01] "GET / HTTP/1.1" 200 -
+2025-06-18 16:35:03,622 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:35:03,622 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:41:45,809 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:41:45,815 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:41:45,816 | INFO | discord.client | logging in using static token
+2025-06-18 16:41:45,831 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:41:45,831 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:41:47,330 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 8d55982ec26f5fc9f2f4e1511d02d36d).
+2025-06-18 16:41:49,636 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:41:49,636 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:41:50,048 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:41:50] "GET / HTTP/1.1" 200 -
+2025-06-18 16:42:03,785 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: row cannot be negative or greater than or equal to 5
+2025-06-18 16:42:30,216 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-18 16:42:30,222 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-18 16:42:30,223 | INFO | discord.client | logging in using static token
+2025-06-18 16:42:30,236 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.70:8080
+2025-06-18 16:42:30,236 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-18 16:42:31,937 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: a5c7ec0ed588156ef64b686ec18990cd).
+2025-06-18 16:42:33,394 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 16:42:33] "GET / HTTP/1.1" 200 -
+2025-06-18 16:42:34,229 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-18 16:42:34,229 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-18 16:55:18,933 | INFO | SessionManagerBot | Created session '69' in guild 'BALLERS'
+2025-06-18 16:55:28,348 | INFO | SessionManagerBot | Started session '69' in guild 'BALLERS'
+2025-06-18 16:56:38,623 | INFO | SessionManagerBot | Added anus_69 to session '69' with tip $0.01
+2025-06-18 16:58:53,968 | INFO | SessionManagerBot | Closed session '69' in guild 'BALLERS'
+2025-06-18 17:03:38,361 | INFO | werkzeug | 172.31.128.70 - - [18/Jun/2025 17:03:38] "GET / HTTP/1.1" 200 -
+2025-06-19 08:45:46,826 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 08:45:46,837 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-19 08:45:46,838 | INFO | discord.client | logging in using static token
+2025-06-19 08:45:46,852 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.17:8080
+2025-06-19 08:45:46,852 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 08:45:48,129 | INFO | werkzeug | 172.31.128.17 - - [19/Jun/2025 08:45:48] "GET / HTTP/1.1" 200 -
+2025-06-19 08:45:48,496 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: c3be606d5f1c1c9a7084f6c76a1bf73c).
+2025-06-19 08:45:50,810 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 08:45:50,810 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 08:48:23,756 | INFO | SessionManagerBot | Created session 'test' in guild 'BALLERS'
+2025-06-19 09:13:06,497 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 09:13:06,505 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot with Auto-Tipping Winner System...
+2025-06-19 09:13:06,506 | INFO | discord.client | logging in using static token
+2025-06-19 09:13:06,519 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.17:8080
+2025-06-19 09:13:06,519 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 09:13:07,880 | INFO | werkzeug | 172.31.128.17 - - [19/Jun/2025 09:13:07] "GET / HTTP/1.1" 200 -
+2025-06-19 09:13:08,144 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: f7815241f2ad8a9747bf5e4cc6928f95).
+2025-06-19 09:13:10,438 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 09:13:10,438 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 09:13:38,532 | ERROR | SessionManagerBot | Error in command 'createsession': Command raised an exception: IndexError: string index out of range
+2025-06-19 09:13:48,832 | ERROR | SessionManagerBot | Error in command 'createsession': Command raised an exception: IndexError: string index out of range
+2025-06-19 09:14:26,959 | ERROR | SessionManagerBot | Error in command 'createsession': Command raised an exception: IndexError: string index out of range
+2025-06-19 09:56:36,575 | INFO | werkzeug | 172.31.128.17 - - [19/Jun/2025 09:56:36] "GET / HTTP/1.1" 200 -
+2025-06-19 10:17:06,228 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 10:17:06,242 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-19 10:17:06,243 | INFO | discord.client | logging in using static token
+2025-06-19 10:17:06,257 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.39:8080
+2025-06-19 10:17:06,257 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 10:17:07,781 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 7a0c04f0551a6277d7d93300f19e03a3).
+2025-06-19 10:17:07,877 | INFO | werkzeug | 172.31.128.39 - - [19/Jun/2025 10:17:07] "GET / HTTP/1.1" 200 -
+2025-06-19 10:17:10,069 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 10:17:10,069 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 10:18:03,009 | INFO | SessionManagerBot | Created session 'hehe' in guild 'BALLERS'
+2025-06-19 10:21:14,385 | INFO | SessionManagerBot | Started session 'hehe' in guild 'BALLERS'
+2025-06-19 10:21:31,628 | INFO | SessionManagerBot | Added anus_69 to session 'hehe' with tip 1.00 WITCHFIRE
+2025-06-19 10:22:50,463 | INFO | SessionManagerBot | Added sure69sure to session 'hehe' with tip 1.00 WITCHFIRE
+2025-06-19 10:23:38,419 | INFO | SessionManagerBot | Declared winners for session 'hehe': ['sure']
+2025-06-19 10:24:10,668 | INFO | SessionManagerBot | Closed session 'hehe' in guild 'BALLERS'
+2025-06-19 10:25:07,474 | INFO | SessionManagerBot | Created session '121' in guild 'BALLERS'
+2025-06-19 10:42:39,409 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 10:42:39,415 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-19 10:42:39,416 | INFO | discord.client | logging in using static token
+2025-06-19 10:42:39,429 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.39:8080
+2025-06-19 10:42:39,429 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 10:42:40,880 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 5b2d27b8d5c5755e5f13168130d065b4).
+2025-06-19 10:42:41,703 | INFO | werkzeug | 172.31.128.39 - - [19/Jun/2025 10:42:41] "GET / HTTP/1.1" 200 -
+2025-06-19 10:42:43,167 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 10:42:43,167 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 10:42:58,623 | INFO | SessionManagerBot | Created session '222' in guild 'BALLERS'
+2025-06-19 11:26:49,662 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 11:26:49,667 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-19 11:26:49,668 | INFO | discord.client | logging in using static token
+2025-06-19 11:26:51,422 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: cba55b834a6ae2530c68f784e84f0c1c).
+2025-06-19 11:26:53,710 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 11:26:53,710 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 11:32:54,265 | INFO | SessionManagerBot | Closed session '222' in guild 'BALLERS'
+2025-06-19 11:36:18,545 | INFO | werkzeug | 172.31.128.39 - - [19/Jun/2025 11:36:18] "GET / HTTP/1.1" 200 -
+2025-06-19 11:38:24,702 | INFO | SessionManagerBot | Created session '111' in guild 'BALLERS'
+2025-06-19 11:38:24,778 | INFO | SessionManagerBot | Created session '111' in guild 'BALLERS'
+2025-06-19 11:39:25,058 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 11:39:25,063 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-19 11:39:25,064 | INFO | discord.client | logging in using static token
+2025-06-19 11:39:25,083 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.39:8080
+2025-06-19 11:39:25,083 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 11:39:26,004 | INFO | werkzeug | 172.31.128.39 - - [19/Jun/2025 11:39:26] "GET / HTTP/1.1" 200 -
+2025-06-19 11:39:28,093 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: f4d2585ec5feb06b1c4314e9e9106caa).
+2025-06-19 11:39:30,398 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 11:39:30,399 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 11:50:27,241 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 11:50:27,249 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-19 11:50:27,250 | INFO | discord.client | logging in using static token
+2025-06-19 11:50:27,264 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.39:8080
+2025-06-19 11:50:27,267 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 11:50:28,900 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 0e4feb77e1cb49251e7cee76521694ab).
+2025-06-19 11:50:30,008 | INFO | werkzeug | 172.31.128.39 - - [19/Jun/2025 11:50:30] "GET / HTTP/1.1" 200 -
+2025-06-19 11:50:31,189 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 11:50:31,189 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 12:12:42,366 | WARNING | discord.http | We are being rate limited. PUT https://discord.com/api/v10/channels/1384877243435847731/messages/1385230811405615200/reactions/%E2%9C%85/@me responded with 429. Retrying in 0.30 seconds.
+2025-06-19 12:12:43,011 | WARNING | discord.http | We are being rate limited. PUT https://discord.com/api/v10/channels/1384877243435847731/messages/1385230811405615200/reactions/%E2%9C%85/@me responded with 429. Retrying in 0.30 seconds.
+2025-06-19 12:15:47,460 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 12:15:47,469 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-19 12:15:47,470 | INFO | discord.client | logging in using static token
+2025-06-19 12:15:47,483 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.39:8080
+2025-06-19 12:15:47,483 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 12:15:49,050 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 06d800b90c70055203ec39f935e2e621).
+2025-06-19 12:15:49,275 | INFO | werkzeug | 172.31.128.39 - - [19/Jun/2025 12:15:49] "GET / HTTP/1.1" 200 -
+2025-06-19 12:15:51,339 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 12:15:51,339 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 12:18:16,744 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 12:18:16,812 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-19 12:18:16,814 | INFO | discord.client | logging in using static token
+2025-06-19 12:18:16,825 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.46:8080
+2025-06-19 12:18:16,825 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 12:18:17,809 | INFO | werkzeug | 172.31.128.46 - - [19/Jun/2025 12:18:17] "GET / HTTP/1.1" 200 -
+2025-06-19 12:18:18,633 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: aa22e14029d8ff20c822177581c57ffc).
+2025-06-19 12:18:20,925 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 12:18:20,925 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 12:21:03,359 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 12:21:03,365 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-19 12:21:03,366 | INFO | discord.client | logging in using static token
+2025-06-19 12:21:03,376 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.46:8080
+2025-06-19 12:21:03,377 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 12:21:04,019 | INFO | werkzeug | 172.31.128.46 - - [19/Jun/2025 12:21:04] "GET / HTTP/1.1" 200 -
+2025-06-19 12:21:04,914 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 4ba62bf5586aafceebb96784dca4a5cf).
+2025-06-19 12:21:07,205 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 12:21:07,205 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 12:24:52,768 | INFO | SessionManagerBot | Created session 'testtt' in guild 'BALLERS'
+2025-06-19 12:26:28,810 | INFO | SessionManagerBot | Created session 'VIPChat' in guild 'BALLERS'
+2025-06-19 12:26:36,067 | INFO | SessionManagerBot | Started session 'VIPChat' in guild 'BALLERS'
+2025-06-19 12:27:04,002 | INFO | SessionManagerBot | Closed session 'VIPChat' in guild 'BALLERS'
+2025-06-19 12:27:23,284 | INFO | SessionManagerBot | Created session 'hhh' in guild 'BALLERS'
+2025-06-19 12:27:38,671 | INFO | SessionManagerBot | Started session 'hhh' in guild 'BALLERS'
+2025-06-19 12:28:05,782 | INFO | SessionManagerBot | Scheduling role removal for anus_69 in session 'hhh' after 3600s
+2025-06-19 12:28:09,409 | INFO | SessionManagerBot | Added anus_69 to session 'hhh' with tip 0.04 USD
+2025-06-19 12:28:58,170 | INFO | SessionManagerBot | Scheduling role removal for nanoquanta. in session 'hhh' after 3600s
+2025-06-19 12:28:59,765 | INFO | SessionManagerBot | Added nanoquanta. to session 'hhh' with tip 0.04 USD
+2025-06-19 12:29:52,430 | INFO | SessionManagerBot | Declared winners for session 'hhh': ['Nanoquanta']
+2025-06-19 12:53:22,513 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 12:53:22,522 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-19 12:53:22,524 | INFO | discord.client | logging in using static token
+2025-06-19 12:53:22,585 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.96:8080
+2025-06-19 12:53:22,585 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 12:53:24,107 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 936419521699c96cbbaa746cce986f6c).
+2025-06-19 12:53:25,875 | INFO | werkzeug | 172.31.128.96 - - [19/Jun/2025 12:53:25] "GET / HTTP/1.1" 200 -
+2025-06-19 12:53:26,424 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 12:53:26,424 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 12:54:27,443 | INFO | SessionManagerBot | Created session 'hehe' in guild 'BALLERS'
+2025-06-19 12:54:50,064 | INFO | SessionManagerBot | Started session 'hehe' in guild 'BALLERS'
+2025-06-19 12:55:28,861 | INFO | SessionManagerBot | Scheduling role removal for anus_69 in session 'hehe' after 3600s
+2025-06-19 12:55:31,891 | INFO | SessionManagerBot | Added anus_69 to session 'hehe' with tip 0.01 USD
+2025-06-19 12:55:35,744 | INFO | SessionManagerBot | Scheduling role removal for nanoquanta. in session 'hehe' after 3600s
+2025-06-19 12:55:37,638 | INFO | SessionManagerBot | Added nanoquanta. to session 'hehe' with tip 0.01 USD
+2025-06-19 12:56:37,447 | ERROR | SessionManagerBot | Error in command 'winner': Command raised an exception: ValueError: could not convert string to float: '<@806561257556541470>'
+2025-06-19 12:57:09,092 | INFO | SessionManagerBot | Declared winners for session 'hehe': ['Nanoquanta']
+2025-06-19 12:57:46,861 | INFO | SessionManagerBot | Closed session 'hehe' in guild 'BALLERS'
+2025-06-19 13:00:59,325 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 13:00:59,331 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-19 13:00:59,332 | INFO | discord.client | logging in using static token
+2025-06-19 13:00:59,345 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.96:8080
+2025-06-19 13:00:59,346 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 13:01:00,618 | INFO | werkzeug | 172.31.128.96 - - [19/Jun/2025 13:01:00] "GET / HTTP/1.1" 200 -
+2025-06-19 13:01:00,915 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 77555d0c6d04e423d5481ce24155d019).
+2025-06-19 13:01:03,205 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 13:01:03,205 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 13:01:44,900 | INFO | SessionManagerBot | Created session 'ehehe' in guild 'BALLERS'
+2025-06-19 13:02:00,721 | INFO | SessionManagerBot | Started session 'ehehe' in guild 'BALLERS'
+2025-06-19 13:02:29,190 | INFO | SessionManagerBot | Scheduling role removal for anus_69 in session 'ehehe' after 3600s
+2025-06-19 13:02:32,305 | INFO | SessionManagerBot | Added anus_69 to session 'ehehe' with tip 0.01 USD
+2025-06-19 13:02:49,461 | INFO | SessionManagerBot | Scheduling role removal for sure69sure in session 'ehehe' after 3600s
+2025-06-19 13:02:51,060 | INFO | SessionManagerBot | Added sure69sure to session 'ehehe' with tip 0.01 USD
+2025-06-19 13:03:24,020 | INFO | SessionManagerBot | Declared winners for session 'ehehe': ['sure']
+2025-06-19 13:07:20,278 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-19 13:07:20,283 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-19 13:07:20,283 | INFO | discord.client | logging in using static token
+2025-06-19 13:07:20,295 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.96:8080
+2025-06-19 13:07:20,295 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-19 13:07:22,008 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 7b52cf8fcd64fb856ff9656908289c6e).
+2025-06-19 13:07:22,833 | INFO | werkzeug | 172.31.128.96 - - [19/Jun/2025 13:07:22] "GET / HTTP/1.1" 200 -
+2025-06-19 13:07:24,306 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-19 13:07:24,307 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-06-19 13:08:43,374 | INFO | SessionManagerBot | Created session '123' in guild 'BALLERS'
+2025-06-19 13:09:13,763 | INFO | SessionManagerBot | Started session '123' in guild 'BALLERS'
+2025-06-19 13:09:31,778 | INFO | SessionManagerBot | Scheduling role removal for anus_69 in session '123' after 3600s
+2025-06-19 13:09:34,922 | INFO | SessionManagerBot | Added anus_69 to session '123' with tip 0.01 USD
+2025-06-19 13:09:39,309 | INFO | SessionManagerBot | Scheduling role removal for nanoquanta. in session '123' after 3600s
+2025-06-19 13:09:40,972 | INFO | SessionManagerBot | Added nanoquanta. to session '123' with tip 0.01 USD
+2025-06-19 13:10:00,313 | INFO | SessionManagerBot | Declared winners for session '123': ['Nanoquanta']
+2025-06-19 13:16:07,679 | ERROR | discord.client | Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/workspace/main.py", line 2084, in on_command_error
+    await ctx.send(embed=embed)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/context.py", line 1043, in send
+    return await super().send(
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/abc.py", line 1644, in send
+    data = await state.http.send_message(channel.id, params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/http.py", line 758, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10003): Unknown Channel
+2025-06-19 13:18:34,000 | INFO | discord.gateway | Shard ID None has successfully RESUMED session 7b52cf8fcd64fb856ff9656908289c6e.
+2025-06-20 11:10:14,253 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-20 11:10:14,324 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-20 11:10:14,325 | INFO | discord.client | logging in using static token
+2025-06-20 11:10:14,348 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.34:8080
+2025-06-20 11:10:14,348 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-20 11:10:15,975 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 4113603f4dedb66a81df33ab701f3b68).
+2025-06-20 11:10:16,308 | INFO | werkzeug | 172.31.128.34 - - [20/Jun/2025 11:10:16] "GET / HTTP/1.1" 200 -
+2025-06-20 11:10:18,778 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-20 11:10:18,778 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-06-20 11:14:16,539 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-20 11:14:16,544 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-20 11:14:16,545 | INFO | discord.client | logging in using static token
+2025-06-20 11:14:16,576 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.34:8080
+2025-06-20 11:14:16,576 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-20 11:14:18,156 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 7a812d82b37b74e092588bfffc2801d8).
+2025-06-20 11:14:18,535 | INFO | werkzeug | 172.31.128.34 - - [20/Jun/2025 11:14:18] "GET / HTTP/1.1" 200 -
+2025-06-20 11:14:20,950 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-20 11:14:20,950 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-06-21 02:42:11,028 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-21 02:42:11,094 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-21 02:42:11,095 | INFO | discord.client | logging in using static token
+2025-06-21 02:42:11,111 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.48:8080
+2025-06-21 02:42:11,111 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-21 02:42:12,683 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: b87a81dfa816877392015ee971348df1).
+2025-06-21 02:42:14,712 | INFO | werkzeug | 172.31.128.48 - - [21/Jun/2025 02:42:14] "GET / HTTP/1.1" 200 -
+2025-06-21 02:42:15,482 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-21 02:42:15,482 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-06-21 02:51:16,283 | INFO | SessionManagerBot | Created session 'abcd' in guild 'Mega City One'
+2025-06-21 02:51:40,269 | INFO | SessionManagerBot | Started session 'abcd' in guild 'Mega City One'
+2025-06-21 02:52:21,334 | INFO | SessionManagerBot | Scheduling role removal for anus_69 in session 'abcd' after 3600s
+2025-06-21 02:52:29,375 | INFO | SessionManagerBot | Added anus_69 to session 'abcd' with tip 0.01 USD
+2025-06-21 02:54:04,275 | INFO | SessionManagerBot | Declared winners for session 'abcd': ['Brainiac']
+2025-06-21 02:54:55,322 | INFO | SessionManagerBot | Closed session 'abcd' in guild 'Mega City One'
+2025-06-21 02:57:02,680 | INFO | discord.gateway | Shard ID None has successfully RESUMED session b87a81dfa816877392015ee971348df1.
+2025-06-21 04:32:44,443 | INFO | werkzeug | 172.31.128.48 - - [21/Jun/2025 04:32:44] "GET / HTTP/1.1" 200 -
+2025-06-21 04:33:46,622 | INFO | werkzeug | 172.31.128.48 - - [21/Jun/2025 04:33:46] "GET / HTTP/1.1" 200 -
+2025-06-21 05:01:04,925 | INFO | werkzeug | 172.31.128.48 - - [21/Jun/2025 05:01:04] "GET / HTTP/1.1" 200 -
+2025-06-21 16:37:08,436 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-21 16:37:08,498 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-21 16:37:08,500 | INFO | discord.client | logging in using static token
+2025-06-21 16:37:08,523 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.41:8080
+2025-06-21 16:37:08,523 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-21 16:37:10,210 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: dec900e2380723672128c3d8e93c2889).
+2025-06-21 16:37:12,616 | INFO | werkzeug | 172.31.128.41 - - [21/Jun/2025 16:37:12] "GET / HTTP/1.1" 200 -
+2025-06-21 16:37:13,008 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-21 16:37:13,008 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-06-21 16:39:48,623 | ERROR | SessionManagerBot | Error in command 'hangman': Command raised an exception: ValueError: row cannot be negative or greater than or equal to 5
+2025-06-21 16:40:31,540 | ERROR | SessionManagerBot | Error in command 'poker': Command raised an exception: KeyError: 'K♦'
+2025-06-21 16:41:49,549 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-21 16:41:49,558 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-21 16:41:49,559 | INFO | discord.client | logging in using static token
+2025-06-21 16:41:49,574 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.41:8080
+2025-06-21 16:41:49,575 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-21 16:41:50,793 | INFO | werkzeug | 172.31.128.41 - - [21/Jun/2025 16:41:50] "GET / HTTP/1.1" 200 -
+2025-06-21 16:41:51,279 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 93271a5fced1b09042cf1a0bdc8b2cc2).
+2025-06-21 16:41:54,076 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-21 16:41:54,076 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-06-21 17:12:27,619 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-21 17:12:27,625 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-21 17:12:27,626 | INFO | discord.client | logging in using static token
+2025-06-21 17:12:27,642 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.71:8080
+2025-06-21 17:12:27,642 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-21 17:12:28,255 | INFO | werkzeug | 172.31.128.71 - - [21/Jun/2025 17:12:28] "GET / HTTP/1.1" 200 -
+2025-06-21 17:12:29,277 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: ac2b072beb0fccb5c495a2f2741bf8ec).
+2025-06-21 17:13:15,242 | ERROR | discord.ext.commands.bot | Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "Move" is not found
+2025-06-21 17:13:26,563 | ERROR | discord.ext.commands.bot | Ignoring exception in command move
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/converter.py", line 1335, in _actual_conversion
+    return converter(argument)
+           ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'y'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 715, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/converter.py", line 1444, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/converter.py", line 1344, in _actual_conversion
+    raise BadArgument(f'Converting to "{name}" failed for parameter "{param.name}".') from exc
+discord.ext.commands.errors.BadArgument: Converting to "int" failed for parameter "x".
+2025-06-21 17:13:43,445 | ERROR | discord.ext.commands.bot | Ignoring exception in command move
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/converter.py", line 1335, in _actual_conversion
+    return converter(argument)
+           ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'x'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 715, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/converter.py", line 1444, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/converter.py", line 1344, in _actual_conversion
+    raise BadArgument(f'Converting to "{name}" failed for parameter "{param.name}".') from exc
+discord.ext.commands.errors.BadArgument: Converting to "int" failed for parameter "x".
+2025-06-21 17:17:39,948 | INFO | werkzeug | 172.31.128.71 - - [21/Jun/2025 17:17:39] "GET / HTTP/1.1" 200 -
+2025-06-22 11:53:13,757 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-22 11:53:13,763 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-22 11:53:13,764 | INFO | discord.client | logging in using static token
+2025-06-22 11:53:13,852 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.117:8080
+2025-06-22 11:53:13,856 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-22 11:53:15,463 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 33109a16cd275a4de54adaf24dd80966).
+2025-06-22 11:53:18,100 | INFO | werkzeug | 172.31.128.117 - - [22/Jun/2025 11:53:18] "GET / HTTP/1.1" 200 -
+2025-06-22 11:53:41,394 | ERROR | discord.ext.commands.bot | Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "ttt" is not found
+2025-06-22 11:56:04,739 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-22 11:56:04,746 | INFO | SessionManagerBot | Starting Session Manager Bot...
+2025-06-22 11:56:04,747 | INFO | discord.client | logging in using static token
+2025-06-22 11:56:04,758 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.117:8080
+2025-06-22 11:56:04,762 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-22 11:56:05,650 | INFO | werkzeug | 172.31.128.117 - - [22/Jun/2025 11:56:05] "GET / HTTP/1.1" 200 -
+2025-06-22 11:56:06,625 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: fd3ebea38461f805b234082ce98a3f97).
+2025-06-22 11:56:09,423 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-22 11:56:09,423 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-06-22 11:57:29,562 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-22 11:57:29,570 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-22 11:57:29,571 | INFO | discord.client | logging in using static token
+2025-06-22 11:57:29,584 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.117:8080
+2025-06-22 11:57:29,584 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-22 11:57:30,275 | INFO | werkzeug | 172.31.128.117 - - [22/Jun/2025 11:57:30] "GET / HTTP/1.1" 200 -
+2025-06-22 11:57:31,030 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 0f619c685a506c2af39f4d267fb1d247).
+2025-06-22 11:58:40,852 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-22 11:58:40,858 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-22 11:58:40,858 | INFO | discord.client | logging in using static token
+2025-06-22 11:58:40,870 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.117:8080
+2025-06-22 11:58:40,871 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-22 11:58:42,340 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 88f7e099ef474263646aaaa88900002e).
+2025-06-22 11:58:44,736 | INFO | werkzeug | 172.31.128.117 - - [22/Jun/2025 11:58:44] "GET / HTTP/1.1" 200 -
+2025-06-22 11:58:45,129 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-22 11:58:45,129 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-06-22 12:06:46,769 | INFO | SessionManagerBot | Created session 'hehe' in guild 'tip pass'
+2025-06-22 12:06:59,808 | INFO | SessionManagerBot | Started session 'hehe' in guild 'tip pass'
+2025-06-22 12:07:20,911 | INFO | SessionManagerBot | Scheduling role removal for roidedstoic in session 'hehe' after 3600s
+2025-06-22 12:07:21,392 | INFO | SessionManagerBot | Scheduling role removal for anus_69 in session 'hehe' after 3600s
+2025-06-22 12:07:24,247 | INFO | SessionManagerBot | Added roidedstoic to session 'hehe' with tip 0.01 USD
+2025-06-22 12:07:24,962 | INFO | SessionManagerBot | Added anus_69 to session 'hehe' with tip 0.01 USD
+2025-06-22 12:08:17,979 | ERROR | SessionManagerBot | Error in command 'winner': Command raised an exception: NotFound: 404 Not Found (error code: 10003): Unknown Channel
+2025-06-22 12:10:06,649 | WARNING | SessionManagerBot | Failed to delete channel for session 'hehe': 404 Not Found (error code: 10003): Unknown Channel
+2025-06-22 12:10:07,608 | INFO | SessionManagerBot | Closed session 'hehe' in guild 'tip pass'
+2025-06-24 07:43:11,109 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-24 07:43:11,121 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-24 07:43:11,121 | INFO | discord.client | logging in using static token
+2025-06-24 07:43:11,129 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.112:8080
+2025-06-24 07:43:11,129 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-24 07:43:12,663 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: a879adc3fc0db5e18de9d99090af5db6).
+2025-06-24 07:43:14,436 | INFO | werkzeug | 172.31.128.112 - - [24/Jun/2025 07:43:14] "GET / HTTP/1.1" 200 -
+2025-06-24 07:43:15,468 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-24 07:43:15,470 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-06-24 07:50:48,137 | INFO | werkzeug | 172.31.128.112 - - [24/Jun/2025 07:50:48] "GET / HTTP/1.1" 200 -
+2025-06-24 07:55:34,115 | INFO | discord.gateway | Shard ID None has successfully RESUMED session a879adc3fc0db5e18de9d99090af5db6.
+2025-06-24 08:05:26,870 | INFO | SessionManagerBot | Joined guild: THE RICH (ID: 1386950499860746301)
+2025-06-26 10:39:51,847 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-26 10:39:51,856 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-26 10:39:51,857 | INFO | discord.client | logging in using static token
+2025-06-26 10:39:51,908 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.64:8080
+2025-06-26 10:39:51,908 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-26 10:39:53,593 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: de2793a58f65c201dd89931fafdc3838).
+2025-06-26 10:39:55,373 | INFO | werkzeug | 172.31.128.64 - - [26/Jun/2025 10:39:55] "GET / HTTP/1.1" 200 -
+2025-06-26 10:39:56,385 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-26 10:39:56,402 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-06-27 07:15:44,495 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-27 07:15:44,508 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-27 07:15:44,508 | INFO | discord.client | logging in using static token
+2025-06-27 07:15:44,513 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.85:8080
+2025-06-27 07:15:44,513 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-27 07:15:45,314 | INFO | werkzeug | 172.31.128.85 - - [27/Jun/2025 07:15:45] "GET / HTTP/1.1" 200 -
+2025-06-27 07:15:46,350 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 2e3d655082ff59f2b21f6170a8e9d47a).
+2025-06-27 07:15:49,154 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-27 07:15:49,154 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-06-27 07:16:32,334 | ERROR | SessionManagerBot | Error in command 'poker': Command raised an exception: KeyError: 'J♣'
+2025-06-27 07:48:44,048 | INFO | werkzeug | 172.31.128.85 - - [27/Jun/2025 07:48:44] "GET / HTTP/1.1" 200 -
+2025-06-27 07:51:35,394 | INFO | werkzeug | 172.31.128.85 - - [27/Jun/2025 07:51:35] "GET / HTTP/1.1" 200 -
+2025-06-27 12:30:32,491 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-27 12:30:32,588 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-27 12:30:32,589 | INFO | discord.client | logging in using static token
+2025-06-27 12:30:32,677 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.10:8080
+2025-06-27 12:30:32,677 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-27 12:30:33,265 | INFO | werkzeug | 172.31.128.10 - - [27/Jun/2025 12:30:33] "GET / HTTP/1.1" 200 -
+2025-06-27 12:30:34,755 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-06-27 12:30:34,761 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-06-27 12:30:34,763 | INFO | discord.client | logging in using static token
+2025-06-27 12:30:35,702 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 4df741244119a7845dd66ac49e7f42ae).
+2025-06-27 12:30:36,439 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: f4d11aeee4ac58ba005699d2a96bfcb0).
+2025-06-27 12:30:38,496 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-27 12:30:38,498 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-06-27 12:30:39,233 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-06-27 12:30:39,233 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-07-13 15:51:16,617 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-07-13 15:51:16,626 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-07-13 15:51:16,628 | INFO | discord.client | logging in using static token
+2025-07-13 15:51:16,694 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.42:8080
+2025-07-13 15:51:16,694 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-07-13 15:51:18,290 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 0ace58180ef0c4bd1e82795962baf848).
+2025-07-13 15:51:19,156 | INFO | werkzeug | 172.31.128.42 - - [13/Jul/2025 15:51:19] "GET / HTTP/1.1" 200 -
+2025-07-13 15:51:21,077 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-07-13 15:51:21,077 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-07-13 15:53:28,420 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-07-13 15:53:28,427 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-07-13 15:53:28,430 | INFO | discord.client | logging in using static token
+2025-07-13 15:53:30,067 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: d43cb59f9aebadbdf56e91b3c042dd05).
+2025-07-13 15:53:32,939 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-07-13 15:53:32,939 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-07-13 15:56:51,387 | INFO | werkzeug | 172.31.128.42 - - [13/Jul/2025 15:56:51] "GET / HTTP/1.1" 200 -
+2025-07-24 14:08:42,451 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-07-24 14:08:42,463 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-07-24 14:08:42,464 | INFO | discord.client | logging in using static token
+2025-07-24 14:08:42,466 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.94.66:8080
+2025-07-24 14:08:42,467 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-07-24 14:08:43,644 | INFO | werkzeug | 172.31.94.66 - - [24/Jul/2025 14:08:43] "GET / HTTP/1.1" 200 -
+2025-07-24 14:08:44,103 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 4a6abbc00af95541be2443482ae44bbd).
+2025-07-24 14:08:46,895 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-07-24 14:08:46,895 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-07-24 14:14:57,625 | INFO | SessionManagerBot | Created session '6969' in guild 'Mega City One'
+2025-07-24 14:16:21,235 | INFO | SessionManagerBot | Started session '6969' in guild 'Mega City One'
+2025-07-24 14:17:30,314 | INFO | SessionManagerBot | Scheduling role removal for elysium853 in session '6969' after 3600s
+2025-07-24 14:17:33,018 | INFO | SessionManagerBot | Added elysium853 to session '6969' with tip 0.01 USD
+2025-07-24 14:22:47,147 | INFO | SessionManagerBot | Closed session '6969' in guild 'Mega City One'
+2025-07-24 14:56:28,235 | INFO | discord.gateway | Shard ID None has successfully RESUMED session 4a6abbc00af95541be2443482ae44bbd.
+2025-07-24 14:57:42,045 | INFO | discord.gateway | Shard ID None has successfully RESUMED session 4a6abbc00af95541be2443482ae44bbd.
+2025-07-26 13:39:21,626 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-07-26 13:39:21,636 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-07-26 13:39:21,636 | INFO | discord.client | logging in using static token
+2025-07-26 13:39:21,638 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.95.66:8080
+2025-07-26 13:39:21,638 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-07-26 13:39:22,872 | INFO | werkzeug | 172.31.95.66 - - [26/Jul/2025 13:39:22] "GET / HTTP/1.1" 200 -
+2025-07-26 13:39:23,171 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 2aa75ff375a9563a20f16811b14a8058).
+2025-07-26 13:39:25,963 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-07-26 13:39:25,964 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-07-26 13:43:16,347 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-07-26 13:43:16,354 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-07-26 13:43:16,355 | INFO | discord.client | logging in using static token
+2025-07-26 13:43:17,826 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 493363c351380319ced2f4e9c5fad882).
+2025-07-26 13:43:20,635 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-07-26 13:43:20,635 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-07-26 13:44:38,196 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-07-26 13:44:38,203 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-07-26 13:44:38,204 | INFO | discord.client | logging in using static token
+2025-07-26 13:44:39,809 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: b451ec8ad9367eeb49d91e0c6bcbbd16).
+2025-07-26 13:44:42,610 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-07-26 13:44:42,610 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-07-26 13:54:00,312 | INFO | werkzeug | 172.31.95.66 - - [26/Jul/2025 13:54:00] "GET / HTTP/1.1" 200 -
+2025-08-05 03:57:40,290 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-05 04:25:34,473 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-05 04:25:34,481 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-08-05 04:25:34,484 | INFO | discord.client | logging in using static token
+2025-08-05 04:25:34,503 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.76.226:8080
+2025-08-05 04:25:34,504 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-08-05 04:25:35,547 | INFO | werkzeug | 172.31.76.226 - - [05/Aug/2025 04:25:35] "GET / HTTP/1.1" 200 -
+2025-08-05 04:25:36,044 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: acdba756eb646656f523ffb8c07e5d8c).
+2025-08-05 04:25:38,836 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-08-05 04:25:38,836 | INFO | SessionManagerBot | Connected to 6 guild(s)
+2025-08-12 15:25:39,321 | WARNING | discord.client | PyNaCl is not installed, voice will NOT be supported
+2025-08-12 15:25:39,333 | INFO | SessionManagerBot | Starting Enhanced Session Manager Bot...
+2025-08-12 15:25:39,334 | INFO | discord.client | logging in using static token
+2025-08-12 15:25:39,354 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.123.194:8080
+2025-08-12 15:25:39,356 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2025-08-12 15:25:40,974 | INFO | discord.gateway | Shard ID None has connected to Gateway (Session ID: 00e0d28dacad9c6216dc641fc31616ed).
+2025-08-12 15:25:42,742 | INFO | werkzeug | 172.31.123.194 - - [12/Aug/2025 15:25:42] "GET / HTTP/1.1" 200 -
+2025-08-12 15:25:43,268 | INFO | SessionManagerBot | Logged in as QUEEN#4392 (ID: 1383802306117767300)
+2025-08-12 15:25:43,269 | INFO | SessionManagerBot | Connected to 5 guild(s)
+2025-08-12 15:51:22,670 | INFO | werkzeug | 172.31.123.194 - - [12/Aug/2025 15:51:22] "GET / HTTP/1.1" 200 -
+2025-08-12 16:06:40,253 | INFO | werkzeug | 172.31.123.194 - - [12/Aug/2025 16:06:40] "GET / HTTP/1.1" 200 -
+2025-08-12 16:10:12,644 | INFO | werkzeug | 172.31.123.194 - - [12/Aug/2025 16:10:12] "GET / HTTP/1.1" 200 -
+2025-08-12 17:12:40,905 | INFO | discord.gateway | Shard ID None has successfully RESUMED session 00e0d28dacad9c6216dc641fc31616ed.
+2025-08-12 17:20:46,877 | INFO | werkzeug | 172.31.123.194 - - [12/Aug/2025 17:20:46] "GET / HTTP/1.1" 200 -
